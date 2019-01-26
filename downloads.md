@@ -12,7 +12,7 @@ ___
   <a href="/downloads/jr_tools.zip">Sound Design Tools</a>
   <!-- more links here -->
 </div>
- <img src="/images/tools.png/" alt="tools" align="middle">
+ <img src="/imagez/tools.png/" alt="tools" align="middle">
 This is a collection of sound design tools I created for Reaktor 6, and Guitar Rig 5. Included are:
 - Multiband Granular Beatmasher (Guitar Rig)
 - Randomness Generator (Guitar Rig)
@@ -33,7 +33,7 @@ ___
   <!-- more links here -->
   </div>
  
- <img src="/images/hexterb.png/" alt="tools" align="middle">
+ <img src="/imagez/hexterb.png/" alt="tools" align="middle">
  Here is a 4k wallpaper I created of Hex, click the download button for the full 4k image.
   <div style="text-align:center">    
   <a href="/downloads/hexter4k.png">Download</a>
